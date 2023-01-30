@@ -1,0 +1,5 @@
+C:\Users\Máté\Desktop\Projektek\devora\DevoraSolution\DevoraSolution\obj\Debug\net5.0\DevoraSolution.csproj.AssemblyReference.cache
+C:\Users\Máté\Desktop\Projektek\devora\DevoraSolution\DevoraSolution\obj\Debug\net5.0\DevoraSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Máté\Desktop\Projektek\devora\DevoraSolution\DevoraSolution\obj\Debug\net5.0\DevoraSolution.AssemblyInfoInputs.cache
+C:\Users\Máté\Desktop\Projektek\devora\DevoraSolution\DevoraSolution\obj\Debug\net5.0\DevoraSolution.AssemblyInfo.cs
+C:\Users\Máté\Desktop\Projektek\devora\DevoraSolution\DevoraSolution\obj\Debug\net5.0\DevoraSolution.csproj.CoreCompileInputs.cache
